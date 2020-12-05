@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Next year Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to write story about fantasy world
+- ⚡ Fun fact: I love to write story about fantasy world, learning to play guitar
 
 ### Connect with me:
 
