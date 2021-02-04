@@ -3,8 +3,8 @@
 ## I'm a Husband, Father, Developer, and Writer!
 - 🔭 I’m currently working at [QR Guiding Team][qrguiding] and [iSPA Manager][ispa]!
 - 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 Next year Goals: Contribute more to Open Source projects
+- 👯 I’m looking to collaborate with other developers
+- 🥅 2021 Goals: Contribute more to Open Source projects and iSPA CMS
 - ⚡ Fun fact: I love to write story about fantasy world, learning to play guitar
 
 ### Connect with me:
