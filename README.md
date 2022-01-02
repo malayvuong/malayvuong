@@ -4,7 +4,7 @@
 - 🔭 I’m currently working at [QR Guiding Team][qrguiding] and [iSPA Manager][ispa]!
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute more to Open Source projects and iSPA CMS
+- 🥅 2022 Goals: Finish release iSPA Element
 - ⚡ Fun fact: I love to write story about fantasy world, learning to play guitar
 
 ### Connect with me:
