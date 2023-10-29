@@ -40,7 +40,7 @@
 <br />
 
 ---
-<img align="left" alt="Malayvuong's Github Stats" src="https://my-github-stats-malayvuong.vercel.app/api?username=malayvuong&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+<img align="left" alt="Malayvuong's Github Stats" src="https://my-github-stats-git-main-malayvuong.vercel.app/api?username=malayvuong&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
 
 [website]: https://malayvuong.com
 [qrguiding]: https://qrguiding.com
